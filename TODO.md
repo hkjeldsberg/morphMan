@@ -1,0 +1,6 @@
+- ~~Fix duplicate points for Piccinelli (landmarking)~~
+- ~~Compute Piccinelli points~~
+- ~~Compute normals and origin, Piccinelli~~
+- ~~Clip models both algorithms~~
+- ~~Combine clips and plot~~
+- ~~Combine plots~~
