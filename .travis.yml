@@ -48,6 +48,6 @@ script:
   - cd test
   - pytest --cov=./
 
-# Push the results back to codecov
+# Push the results back to codecov (Test)
 after_success:
   - codecov
